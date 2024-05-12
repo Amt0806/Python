@@ -2,7 +2,7 @@ A Weather app that shows different wheather conditions based upon selecting stat
 
 Technology Stack:
 
-Pyhton
-request module
-tkinter module
-Api calling
+1. Pyhton
+2. request module
+3. tkinter module
+4, Api calling
