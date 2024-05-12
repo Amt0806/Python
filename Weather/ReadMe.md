@@ -5,4 +5,4 @@ Technology Stack:
 1. Pyhton
 2. request module
 3. tkinter module
-4, Api calling
+4. Api calling
